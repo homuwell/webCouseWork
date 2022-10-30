@@ -1,0 +1,5 @@
+{
+  "watch": ["client"],
+  "exec": "node server/index.js",
+  "ext": "js"
+}
